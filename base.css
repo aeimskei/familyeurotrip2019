@@ -1,0 +1,20 @@
+/* location images */
+div.first-img {
+  padding-right: 0px;
+}
+div.last-img {
+  padding-left: 0px;
+}
+div.middle-img {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+div.row.location-img {
+  margin-top: 20px;
+}
+
+/* info box */
+div.row.info-box {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
