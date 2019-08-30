@@ -1,3 +1,8 @@
+/* homepage images */
+div.row.home-page {
+  margin-bottom: 10px;
+}
+
 /* location images */
 div.first-img {
   padding-right: 0px;
