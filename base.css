@@ -23,3 +23,9 @@ div.row.info-box {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+/* itinerary */
+p.itinerary {
+  margin-top: 20px;
+  font-style: bold;
+}
