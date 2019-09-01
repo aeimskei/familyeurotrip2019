@@ -14,7 +14,7 @@ div.middle-img {
   padding-left: 0px;
   padding-right: 0px;
 }
-div.row.location-img {
+.location-img {
   margin-top: 20px;
 }
 
@@ -28,4 +28,7 @@ div.row.info-box {
 p.itinerary {
   margin-top: 20px;
   font-style: bold;
+}
+.bottom-cush {
+  margin-bottom: 50px;
 }
